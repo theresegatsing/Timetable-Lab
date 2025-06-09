@@ -1,12 +1,17 @@
-# React + Vite
+# 🗓️ Timetabled
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A one-week interactive calendar built with **React** and **Vite** as part of the CodePath Intermediate Web Development Summer 2025 course. This lab project simulates a real-world weekly schedule for a chosen person, including custom one-hour events with color-coded categories and additional location info.
 
-Currently, two official plugins are available:
+## 🌟 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 📅 A 7-day grid calendar (Sunday to Saturday)
+- 🕗 Time blocks from 8 AM to 5 PM
+- 🎨 Color-coded events (e.g. green for food, pink for transportation, blue for coffee)
+- 📝 Dynamic event details (title, location)
+- 🧩 Modular React components (`App`, `Calendar`, `Event`)
 
-## Expanding the ESLint configuration
+## 🖥️ Preview
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+  
+
+
