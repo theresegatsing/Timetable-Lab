@@ -11,7 +11,8 @@ A one-week interactive calendar built with **React** and **Vite** as part of the
 - 🧩 Modular React components (`App`, `Calendar`, `Event`)
 
 ## 🖥️ Preview
-![Screenshot of the calendar](./assets/Timetabled_screenshot.png)
+![Screenshot of the calendar](./src/assets/Timetabled_screenshot.png)
+
 
   
 
